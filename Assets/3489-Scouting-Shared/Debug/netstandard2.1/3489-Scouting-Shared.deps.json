@@ -1,0 +1,24 @@
+{
+  "runtimeTarget": {
+    "name": ".NETStandard,Version=v2.1/",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETStandard,Version=v2.1": {},
+    ".NETStandard,Version=v2.1/": {
+      "3489-Scouting-Shared/1.0.0": {
+        "runtime": {
+          "3489-Scouting-Shared.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "3489-Scouting-Shared/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
